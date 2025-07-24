@@ -1,4 +1,4 @@
-# Prime Numbers Finder - Interactive Version
+# Prime Numbers Finder - Interactive Version (MINI Proyect)
 
 This Python script lets you find all prime numbers up to a number you specify interactively.
 
